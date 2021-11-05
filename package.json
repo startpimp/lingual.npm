@@ -1,0 +1,23 @@
+{
+  "name": "lsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startpimp/lingual.npm.git"
+  },
+  "keywords": [
+    "dictionary",
+    "json"
+  ],
+  "author": "StartKingz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/startpimp/lingual.npm/issues"
+  },
+  "homepage": "https://github.com/startpimp/lingual.npm#readme"
+}
